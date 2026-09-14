@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-base-project-session08-main/Api-Gateway" />
+        <option name="gradleJvm" value="openjdk-26" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-base-project-session08-main/Api-Gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-base-project-session08-main/Config-Server" />
+        <option name="gradleJvm" value="openjdk-26" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-base-project-session08-main/Config-Server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-base-project-session08-main/Discovery_Server" />
+        <option name="gradleJvm" value="openjdk-26" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-base-project-session08-main/Discovery_Server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/microservice-base-project-session08-main/User-Service" />
+        <option name="gradleJvm" value="openjdk-26" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microservice-base-project-session08-main/User-Service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
